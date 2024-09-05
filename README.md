@@ -26,14 +26,14 @@ To run this project, you'll need:
 - Libraries: pandas, openpyxl (for Excel file handling), photoshop-python-api, tkinter (comes pre-installed with Python)
 - Photoshop with scripting support enabled
 
-```bash
+```bash```
 pip install pandas openpyxl photoshop-python-api
 
 ## Usage
 
 Prepare your input file and run the application using these steps:
 
-```bash
+```bash```
 # Prepare your input file:
 # Create or use an existing CSV or Excel file containing the data to be mapped.
 
