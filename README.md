@@ -31,23 +31,15 @@ pip install pandas openpyxl photoshop-python-api
 
 ## Usage
 
-Prepare your input file and run the application using these steps:
-
-```bash```
-# Prepare your input file:
-# Create or use an existing CSV or Excel file containing the data to be mapped.
+1. **Prepare Your Input File**: Create or use an existing CSV or Excel file containing the data to be mapped.
+2. **Run the Application**: Launch the application by executing the script:
 
 # Run the application:
+```bash```
 python convert_and_map_excel_to_photoshop.py
-
-# Select input file:
-# Use the tkinter interface to browse and select your CSV or Excel file.
-
-# Define mappings:
-# Use the application interface to define how each column should map to Photoshop layers.
-
-# Process and export:
-# Click the "Process" button to map the data and export the images.
+3. **Select Input File**: Use the tkinter interface to browse and select your CSV or Excel file.
+4. **Define Mappings**: Use the application interface to define how each column should map to Photoshop layers.
+5. **Process and Export**: Click the "Process" button to map the data and export the images.
 
 ## Example
 
