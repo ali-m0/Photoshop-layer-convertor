@@ -69,4 +69,4 @@ If you have suggestions or want to contribute to this project, please contact me
 
 ## License
 
-For licensing information, please contact the author directly at the email provided above.
+For more information and understand more about this process or write some product like this, please contact me directly with email or LinkedIn that provided above.
